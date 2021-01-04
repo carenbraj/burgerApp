@@ -4,7 +4,7 @@
 
 ---
 
-Add a burger you'd like to eat in the input area and submit it. to eat a burger click the devour button under the burger you'd like to eat. The burger thats been devoured will move from the right side of the window to the left side of the window. If you want to delete a burger from the devoured side just click the delete button under the burger that you'd like to delete.
+Add a burger you'd like to eat in the input area and submit it. To eat a burger click the devour button under the burger you'd like to eat. The burger thats been devoured will move from the right side to the left side of the window. If you want to delete a burger from the devoured side just click the delete button under the burger that you'd like to delete.
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-maroon)
 
@@ -20,15 +20,6 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
----
-
-> **_get started_**:
-
-- node js
-- express
-- handlebars
 
 ## Setup
 
@@ -42,11 +33,10 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 
 ---
 
-![image of the BurgerEater App](Da Burgers.png)
+![image of the BurgerEater App](DaBurgers.png)
 
 ---
 
-![video of BurgerEater App]()
 
 ## Deploying
 
@@ -55,19 +45,6 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 - Heroku
 - JAWDB MySQL
 
-
-## Contributing
-
----
-
-**_step 1_**
-
-  - Clone repo to your local machine
-
-**_step 2_**
-
-- Hack Away!!!
-- Create a new pull request
 
 
 ## License

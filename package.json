@@ -1,5 +1,5 @@
 {
-  "name": "burgereater",
+"name": "burgerapp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carenbraj/burgerApp.git"
+    "url": "git+https://github.com/carenbraj/burgerApp.git"
   },
   "author": "Caren Braj",
   "license": "UNLICENSED",

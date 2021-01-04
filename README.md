@@ -42,7 +42,7 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 
 ---
 
-![picture of the BurgerEater App](burgerEater.png)
+![gif of the BurgerEater App](Untitled_ Jan 4 2021 2_09 PM.webm)
 
 ---
 

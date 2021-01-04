@@ -42,7 +42,7 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 
 ---
 
-![gif of the BurgerEater App](Untitled_ Jan 4 2021 2_09 PM.webm)
+![image of the BurgerEater App](Da Burgers.png)
 
 ---
 
@@ -55,16 +55,6 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 - Heroku
 - JAWDB MySQL
 
-> **_Find me on Github:_**
-
-**_At Github:_**
-<>
-
-**_Check out the BurgerEater App Video_**
-<>
-
-**_Or just test out the app_**
-<>
 
 ## Contributing
 

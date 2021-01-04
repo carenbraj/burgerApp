@@ -18,7 +18,6 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 - [Setup](#setup)
 - [Deploying](#deploying)
 - [Contributing](#contributing)
-- [Support/Questions](#supportquestions)
 - [License](#license)
 
 ## Installation
@@ -59,13 +58,13 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 > **_Find me on Github:_**
 
 **_At Github:_**
-<https://github.com/Rauloropesa3/burgerEater.git>
+<>
 
 **_Check out the BurgerEater App Video_**
-<https://drive.google.com/file/d/1Lez8QWtVvTuA5Uh2qjYhW2TxDd0NIVO8/view>
+<>
 
 **_Or just test out the app_**
-<https://hidden-sea-26020.herokuapp.com>
+<>
 
 ## Contributing
 
@@ -73,26 +72,13 @@ Add a burger you'd like to eat in the input area and submit it. to eat a burger 
 
 **_step 1_**
 
-- **Option 1**
-
-  - Fork this repo!
-
-- **Option 2**
-  - Clone thr repo to your local machine
+  - Clone repo to your local machine
 
 **_step 2_**
 
 - Hack Away!!!
 - Create a new pull request
 
-## Support/Questions
-
----
-
-Reach out to me if you have any questions!
-
-- Via email:
-  - alexoropes1982@yahoo.com
 
 ## License
 

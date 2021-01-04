@@ -1,5 +1,5 @@
 {
-  "name": "burgerApp",
+  "name": "burgerapp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -20,4 +20,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carenbraj/burgerApp.git"
+  },
+  "author": "Caren Braj",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/carenbraj/burgerApp/issues"
+  },
+  "homepage": "https://github.com/carenbraj/burgerApp#readme"
+}

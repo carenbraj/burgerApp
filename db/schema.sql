@@ -1,15 +1,17 @@
-CREATE DATABASE wyz6xr1ilvrqvnsb;
+CREATE DATABASE burgers_db;
 
-USE DATABASE wyz6xr1ilvrqvnsb;
+USE burgers_db;
 
 
 CREATE TABLE burgers(
     id INT NOT NULL AUTO_INCREMENT,
     burger_name VARCHAR(255) NOT NULL,
     devoured BOOLEAN NOT NULL DEFAULT 0,
-    primaary key("id")
+    primary key(id)
 )
 
 
 
 SELECT * from burgers;
+
+

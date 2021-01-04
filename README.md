@@ -14,7 +14,6 @@ Add a burger you'd like to eat in the input area and submit it. To eat a burger 
 
 - [Description](#description)
 - [Table of content](#table-of-content)
-- [Installation](#installation)
 - [Setup](#setup)
 - [Deploying](#deploying)
 - [Contributing](#contributing)
